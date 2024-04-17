@@ -1,0 +1,48 @@
+[colors]
+draw_bold_text_with_bright_colors = true
+
+#[colors.bright]
+#black = "#050505"
+#blue = "#728262"
+#cyan = "#6956a8"
+#green = "#bd984f"
+#magenta = "#d3869b"
+#red = "#782119"
+#white = "#6d85a3"
+#yellow = "#e69027"
+
+#[colors.normal]
+#black = "#050505"
+#blue = "#728262"
+#cyan = "#6956a8"
+#green = "#bd984f"
+#magenta = "#d3869b"
+#red = "#782119"
+#white = "#6d85a3"
+#yellow = "#e69027"
+
+[colors.primary]
+#background = "#24221d"
+#foreground = "#8dab6f"
+
+[font]
+size = 10
+
+[font.bold]
+family = "JetBrains Mono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrains Mono Nerd Font"
+style = "BoldItalic"
+
+[font.italic]
+family = "JetBrains Mono Nerd Font"
+style = "MediumItalic"
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+style = "Medium"
+
+[window]
+opacity = 0.9 
